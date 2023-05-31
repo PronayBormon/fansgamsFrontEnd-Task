@@ -1,0 +1,11 @@
+@media(max-width: 576px){
+    .btn_setings, .btn_setings:hover {
+        margin-left: 4px;
+    }
+}
+@media(max-width:425px){
+    .s_input {
+        width: 90%;
+        margin-right: 3px;
+    }
+}
