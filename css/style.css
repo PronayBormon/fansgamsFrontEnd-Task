@@ -50,7 +50,7 @@ footer {
 /* search css  */
 .s_input{
     position: relative;
-    width: 93%;
+    width: 95%;
 }
 .s_input input::placeholder{
     color: #cdcbcb;
